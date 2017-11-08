@@ -1,5 +1,7 @@
 # then-than
 
+https://github.com/woozyking/then-than
+
 A simple project to detect incorrect use of `then` and `than` in english (the language).
 
 This entire project was created during live streaming, quite an experience despite that the viewership has never gone higher than a single digit on either of the platforms ([Twitch.tv/woozyking](https://twitch.tv/woozyking) and [Douyu.tv/woozyking](http://douyu.tv/woozyking)). `¯\_(ツ)_/¯`
