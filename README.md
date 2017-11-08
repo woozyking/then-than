@@ -7,6 +7,8 @@ This entire project was created during live streaming, quite an experience despi
 The live coding experience was greatly simplified thanks to [glitch.com](https://glitch.com). You can easily remix this project on it to have your own fun!
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/then-than)
 
+The entire footage, and (hopefully) future content will be archived in [this YouTube play list](https://www.youtube.com/playlist?list=PLQpvcCyJoZRsD2uIVvJX3TXrwgB7no6A3). Videos for this project in particular were [Part 1](https://youtu.be/bhHaivGAymo) and [Part 2](https://youtu.be/mYUWUmi_S6I).
+
 ## Features
 
 - `then` and `than` incorrect usage detection (not 100%) by leveraging [LanguageTool](https://languagetool.org)
