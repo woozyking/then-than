@@ -1,0 +1,42 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "my-glitch-app",
+  "version": "0.0.1",
+  "description": "What am I about?",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "bot": "env $(cat .env | grep -v ^# | xargs) node bot.js"
+  },
+  "dependencies": {
+    "axios": "^0.17.0",
+    "body-parser": "latest",
+    "dictionary-en-us": "^2.0.0",
+    "discord.js": "^11.2.1",
+    "express": "^4.16.2",
+    "natural": "^0.5.4",
+    "querystring": "^0.2.0",
+    "retext": "^5.0.0",
+    "retext-english": "^3.0.0",
+    "retext-spell": "^2.3.1",
+    "retext-usage": "^0.5.0",
+    "spell-checker-js": "^1.2.3",
+    "spellchecker": "^3.4.4",
+    "vfile-reporter": "^4.0.0",
+    "xml2js": "^0.4.19"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
